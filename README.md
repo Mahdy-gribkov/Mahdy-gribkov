@@ -24,7 +24,6 @@ I like building things that solve real problems, competing in hackathons, and oc
 | [**NetWatch C2**](https://github.com/Mahdy-gribkov/NetWatch-C2-Telemetry) | Distributed command & control system with Python agent + .NET dashboard | C#, Python, gRPC |
 | [**VANGUARD**](https://github.com/Mahdy-gribkov/VANGUARD) | Target-first wireless auditing tool for M5Stack Cardputer | C++, ESP32-S3 |
 | [**eco-logic**](https://github.com/Mahdy-gribkov/eco-logic) | Environmental education platform — hackathon project | React 19, Tailwind |
-| [**Atlas**](https://github.com/Mahdy-gribkov/Atlas) | AI-powered travel planning platform with real-time data | Next.js 14, Firebase |
 | [**Spring Blossom**](https://github.com/Mahdy-gribkov/Spring-Blossom) | CSS competition entry — procedural birds, 200+ animated petals, 3D parallax | SCSS, HAML |
 
 ---
