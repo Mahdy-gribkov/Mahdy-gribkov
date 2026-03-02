@@ -40,7 +40,7 @@ Software developer at SporeSec, based in Tel Aviv. I build lead generation pipel
 | | **Self-taught** developer |
 | | **4+ years** building production systems |
 | | **10+ client projects** delivered |
-| | **Hackathon winner** (Eco Logic) |
+| | **Hackathon builder** (Eco Logic) |
 | | **npm published** (Arcana, 58 skills) |
 | | **Cybersecurity + embedded + web** breadth |
 | | **300+ leads/day** enrichment pipeline |
@@ -204,7 +204,7 @@ NotebookLM-inspired RAG app. Upload PDFs, ask questions, get cited answers. Mult
 ### More Projects
 [![View All](https://img.shields.io/badge/View_All_Repos-d4943a?style=for-the-badge&logo=github)](https://github.com/medy-gribkov?tab=repositories)
 
-Explore more: Eco Logic (hackathon winner), DarkWeb Scanner (Rust/Tor), Phishing Simulator (Go/SMTP), MicroGPT Brain (3D WebGPU), and more.
+Explore more: Eco Logic (hackathon project), DarkWeb Scanner (Rust/Tor), Phishing Simulator (Go/SMTP), MicroGPT Brain (3D WebGPU), and more.
 
 **Areas:** `Cybersecurity` `Web` `Game Dev` `Embedded`
 
