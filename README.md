@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/medy-gribkov">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=10000&color=D4943A&center=true&vCenter=true&multiline=false&repeat=false&width=700&height=30&lines=Self-taught.+No+shortcuts.+Building+what+matters." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=10000&color=D4943A&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=30&lines=Self-taught.+No+shortcuts.+Building+what+matters." alt="Typing SVG" />
   </a>
 </div>
 
