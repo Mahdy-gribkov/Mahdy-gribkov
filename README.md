@@ -7,14 +7,14 @@
 
 <div align="center">
   <a href="https://github.com/medy-gribkov">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4943A&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=30&lines=Self-taught.+No+shortcuts.+Building+what+matters." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=10000&color=D4943A&center=true&vCenter=true&multiline=false&repeat=false&width=700&height=30&lines=Self-taught.+No+shortcuts.+Building+what+matters." alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/3%2B_Years_Experience-d4943a?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/4%2B_Years_Experience-d4943a?style=for-the-badge" alt="Experience"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Cybersecurity-d4943a?style=for-the-badge" alt="Cybersecurity"/>
@@ -26,30 +26,7 @@
 
 ## About Me
 
-```go
-package main
-
-type Developer struct {
-    Name     string
-    Role     string
-    Company  string
-    Location string
-    Stack    []string
-}
-
-var medy = Developer{
-    Name:     "Medy Gribkov",
-    Role:     "Software Developer",
-    Company:  "SporeSec",
-    Location: "Tel Aviv, Israel",
-    Stack: []string{
-        "Go, TypeScript, C#, C++, Rust, Python",
-        "Next.js, React, Tailwind, Framer Motion",
-        "ESP32, M5Stack, .NET/WPF, gRPC",
-        "PostgreSQL, Redis, Docker, Vercel",
-    },
-}
-```
+Software developer at SporeSec, based in Tel Aviv. I build lead generation pipelines in Go, cybersecurity tools for embedded hardware, and full-stack web platforms. Self-taught, 4+ years in production. I ship tools that work at scale, from 300+ leads/day enrichment engines to wireless auditing suites running on ESP32 microcontrollers.
 
 <table>
 <tr>
@@ -61,7 +38,7 @@ var medy = Developer{
 |---|---|
 | | **Lead Developer** @ **SporeSec** |
 | | **Self-taught** developer |
-| | **3+ years** building production systems |
+| | **4+ years** building production systems |
 | | **10+ client projects** delivered |
 | | **Hackathon winner** (Eco Logic) |
 | | **npm published** (Arcana, 58 skills) |
@@ -73,12 +50,7 @@ var medy = Developer{
 
 ### Top Languages
 
-![Go](https://img.shields.io/badge/Go-30%25-00ADD8?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-30%25-3178C6?style=flat-square)
-![C#](https://img.shields.io/badge/C%23-15%25-512BD4?style=flat-square)
-![C++](https://img.shields.io/badge/C%2B%2B-10%25-00599C?style=flat-square)
-![Python](https://img.shields.io/badge/Python-10%25-3776AB?style=flat-square)
-![Other](https://img.shields.io/badge/Other-5%25-gray?style=flat-square)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=medy-gribkov&layout=compact&hide_border=true&bg_color=00000000&title_color=d4943a&text_color=e0c9a6&langs_count=6&cache_seconds=1800" alt="Top Languages"/>
 
 ### Current Focus
 
@@ -117,8 +89,7 @@ var medy = Developer{
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" height="40" alt="Buy Me A Coffee"/>
   </a>
 
-  <br/><br/>
-
+  <br/>
   <img src="https://img.shields.io/badge/Tel_Aviv,_Israel-0c0b0e?style=flat-square" alt="Location"/>
 
 </div>
