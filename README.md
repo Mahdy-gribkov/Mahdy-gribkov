@@ -34,16 +34,14 @@ Software developer at SporeSec, based in Tel Aviv. I build lead generation pipel
 
 ### Quick Highlights
 
-| | |
-|---|---|
-| | **Lead Developer** @ **SporeSec** |
-| | **Self-taught** developer |
-| | **4+ years** building production systems |
-| | **10+ client projects** delivered |
-| | **Hackathon builder** (Eco Logic) |
-| | **npm published** (Arcana, 58 skills) |
-| | **Cybersecurity + embedded + web** breadth |
-| | **300+ leads/day** enrichment pipeline |
+- **Lead Developer** @ **SporeSec**
+- **Self-taught** developer
+- **4+ years** building production systems
+- **10+ client projects** delivered
+- **npm published** open source (Arcana, 58 skills)
+- **Cybersecurity + embedded + web** breadth
+- **300+ leads/day** enrichment pipeline
+- **7 platforms** supported by Arcana CLI
 
 </td>
 <td>
@@ -249,11 +247,10 @@ Explore more: Eco Logic (hackathon project), DarkWeb Scanner (Rust/Tor), Phishin
 <br/>
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=medy-gribkov&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0c0b0e&title_color=d4943a&icon_color=d4943a&text_color=e0c9a6&rank_icon=percentile&cache_seconds=1800" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=medy-gribkov&layout=compact&hide_border=true&bg_color=0c0b0e&title_color=d4943a&text_color=e0c9a6&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=medy-gribkov&hide_border=true&background=0C0B0E&stroke=d4943a&ring=d4943a&fire=d4943a&currStreakLabel=d4943a&sideLabels=d4943a&currStreakNum=d4943a&dates=e0c9a6&sideNums=d4943a" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=medy-gribkov&hide_border=true&background=0C0B0E&stroke=d4943a&ring=d4943a&fire=d4943a&currStreakLabel=d4943a&sideLabels=d4943a&currStreakNum=d4943a&dates=e0c9a6&sideNums=d4943a" alt="GitHub Streak Stats" />
 
 </div>
 
