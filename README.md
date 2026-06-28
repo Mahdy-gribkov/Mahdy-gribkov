@@ -265,5 +265,5 @@ Explore more: Eco Logic (hackathon project), DarkWeb Scanner (Rust/Tor), Phishin
 </div>
 
 <p align="center">
-  <i>From <a href="https://github.com/medy-gribkov">medy-gribkov</a></i>
+  <i>From <a href="https://github.com/medy-gribkov">medy-gribkov, מדי גריבקוב</a></i>
 </p>
