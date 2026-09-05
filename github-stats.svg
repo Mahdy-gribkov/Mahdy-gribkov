@@ -1,0 +1,16 @@
+<svg width="480" height="250" viewBox="0 0 480 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub statistics">
+  <rect x="0.5" y="0.5" width="479" height="249" rx="14" fill="#0c0b0e" stroke="rgba(212,148,58,0.28)"/>
+  <text x="30" y="42" fill="#d4943a" font-size="19" font-weight="700" font-family="'Segoe UI', Ubuntu, system-ui, sans-serif">Medy Gribkov's GitHub Stats</text>
+  <g font-family="'Segoe UI', Ubuntu, system-ui, sans-serif">
+    <text x="30" y="78" fill="#e0c9a6" font-size="15">Total stars earned</text>
+    <text x="450" y="78" fill="#d4943a" font-size="15" font-weight="700" text-anchor="end">6</text>
+    <text x="30" y="112" fill="#e0c9a6" font-size="15">Commits (past year)</text>
+    <text x="450" y="112" fill="#d4943a" font-size="15" font-weight="700" text-anchor="end">460</text>
+    <text x="30" y="146" fill="#e0c9a6" font-size="15">Total PRs</text>
+    <text x="450" y="146" fill="#d4943a" font-size="15" font-weight="700" text-anchor="end">5</text>
+    <text x="30" y="180" fill="#e0c9a6" font-size="15">Public repositories</text>
+    <text x="450" y="180" fill="#d4943a" font-size="15" font-weight="700" text-anchor="end">42</text>
+    <text x="30" y="214" fill="#e0c9a6" font-size="15">Followers</text>
+    <text x="450" y="214" fill="#d4943a" font-size="15" font-weight="700" text-anchor="end">5</text>
+  </g>
+</svg>

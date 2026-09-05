@@ -1,0 +1,30 @@
+<svg width="360" height="256" viewBox="0 0 360 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Most used languages">
+  <rect x="0.5" y="0.5" width="359" height="255" rx="14" fill="#0c0b0e" stroke="rgba(212,148,58,0.28)"/>
+  <text x="26" y="40" fill="#d4943a" font-size="17" font-weight="700" font-family="'Segoe UI', Ubuntu, system-ui, sans-serif">Most Used Languages</text>
+  <g font-family="'Segoe UI', Ubuntu, system-ui, sans-serif">
+    <text x="26" y="74" fill="#e0c9a6" font-size="13">TypeScript</text>
+    <rect x="150" y="61" width="150" height="8" rx="4" fill="rgba(224,201,166,0.12)"/>
+    <rect x="150" y="61" width="78.2" height="8" rx="4" fill="#3178c6"/>
+    <text x="336" y="74" fill="#8a7f6f" font-size="12" text-anchor="end">52.1%</text>
+    <text x="26" y="104" fill="#e0c9a6" font-size="13">JavaScript</text>
+    <rect x="150" y="91" width="150" height="8" rx="4" fill="rgba(224,201,166,0.12)"/>
+    <rect x="150" y="91" width="33.6" height="8" rx="4" fill="#f1e05a"/>
+    <text x="336" y="104" fill="#8a7f6f" font-size="12" text-anchor="end">22.4%</text>
+    <text x="26" y="134" fill="#e0c9a6" font-size="13">Python</text>
+    <rect x="150" y="121" width="150" height="8" rx="4" fill="rgba(224,201,166,0.12)"/>
+    <rect x="150" y="121" width="23.4" height="8" rx="4" fill="#3572A5"/>
+    <text x="336" y="134" fill="#8a7f6f" font-size="12" text-anchor="end">15.6%</text>
+    <text x="26" y="164" fill="#e0c9a6" font-size="13">PHP</text>
+    <rect x="150" y="151" width="150" height="8" rx="4" fill="rgba(224,201,166,0.12)"/>
+    <rect x="150" y="151" width="5.3" height="8" rx="4" fill="#4F5D95"/>
+    <text x="336" y="164" fill="#8a7f6f" font-size="12" text-anchor="end">3.5%</text>
+    <text x="26" y="194" fill="#e0c9a6" font-size="13">Go</text>
+    <rect x="150" y="181" width="150" height="8" rx="4" fill="rgba(224,201,166,0.12)"/>
+    <rect x="150" y="181" width="5.2" height="8" rx="4" fill="#00ADD8"/>
+    <text x="336" y="194" fill="#8a7f6f" font-size="12" text-anchor="end">3.4%</text>
+    <text x="26" y="224" fill="#e0c9a6" font-size="13">C++</text>
+    <rect x="150" y="211" width="150" height="8" rx="4" fill="rgba(224,201,166,0.12)"/>
+    <rect x="150" y="211" width="4.3" height="8" rx="4" fill="#f34b7d"/>
+    <text x="336" y="224" fill="#8a7f6f" font-size="12" text-anchor="end">2.9%</text>
+  </g>
+</svg>
